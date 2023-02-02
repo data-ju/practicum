@@ -1,7 +1,11 @@
 #Sobre o projeto
 
-Este é o projeto final do Sprint 2 do Curso de Análise de Dados da Practicum. O objetivo é é preparar um relatório para a divisão de empréstimos de um banco. Você precisará descobrir se o estado civil de um cliente e o número de filhos têm impacto sobre a inadimplência de um empréstimo. O banco já tem alguns dados sobre a capacidade de crédito dos clientes.
-Seu relatório será considerado ao criar uma pontuação de crédito de um cliente em potencial. Uma pontuação de crédito é usada para avaliar a capacidade de um devedor em potencial de pagar seu empréstimo.
+Este é o projeto final do Sprint 2 do Curso de Análise de Dados da Practicum. 
+
+O objetivo é preparar um relatório para a divisão de empréstimos de um banco. 
+É necessário descobrir quais fatores influenciam na capacidade de crédito dos clientes. 
+O relatório será considerado ao criar uma pontuação de crédito de um cliente em potencial. 
+Uma pontuação de crédito é usada para avaliar a capacidade de um devedor em potencial de pagar seu empréstimo.
 
 #Quais são as perguntas?
 1. Existe alguma relação entre ter filhos e pagar um empréstimo em dia?
